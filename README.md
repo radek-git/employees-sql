@@ -1,2 +1,0 @@
-# pracownicy-sql
-# employees-sql
